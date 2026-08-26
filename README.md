@@ -4,8 +4,8 @@
 
 **Project Link:** [View Project](http://nextwork.ai/projects/aws-host-a-website-on-s3)
 
-**Author:** Noor Noor  
-**Email:** nn0756358@gmail.com
+**Author:** Rajath Noor  
+**Email:** raj*****@gmail.com
 
 ---
 
