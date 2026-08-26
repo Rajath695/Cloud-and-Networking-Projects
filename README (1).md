@@ -4,8 +4,8 @@
 
 **Project Link:** [View Project](http://nextwork.ai/projects/aws-networks-security)
 
-**Author:** Noor Noor  
-**Email:** nn0756358@gmail.com
+**Author:** Rajath Noor  
+**Email:** raj****8@gmail.com
 
 ---
 
